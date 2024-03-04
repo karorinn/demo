@@ -10,7 +10,7 @@ function Footer () {
               <div className="col l4 offset-l2 s12">
                 <h5 className="white-text">Links</h5>
                 <ul>
-                  <li><a className="grey-text text-lighten-3" href="https://t.me/liarwithoutsoul">Сontact the developer</a></li>
+                  <li><a className="grey-text text-lighten-3" href="https://t.me/liarwithoutsouls">Сontact the developer</a></li>
                 </ul>
               </div>
             </div>
